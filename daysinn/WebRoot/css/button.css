@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+.button {
+	background-color: #0a7e93;
+	color: white;
+	border: none;
+	margin: 4px 2px;
+	font-size: 16px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.bookNow_button {
+	width: 300px;
+	height: 30px;
+	border: 2px solid #204a87;
+	
+	color: #3465a4;
+	margin: 4px 2px;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 16px;
+	font-style:normal;
+	font-family:sans-serif;
+	font-weight:600;
+	
+	text-align: center; 
+	
+}

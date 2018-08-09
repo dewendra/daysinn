@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.footnote_div {
+	width: 1250px;
+	height: 280px;
+	float: left;
+	background: white;
+	
+	padding: 0px;
+	margin: 0px;
+	
+}

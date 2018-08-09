@@ -1,0 +1,69 @@
+
+* {
+margin-top : 0;
+padding : 0;
+}
+html {
+height : 100%;
+}
+
+a:link, a:visited {
+color : #fff;
+text-decoration : none;
+}
+a img {
+border : 0;
+}
+
+.location{
+	 width: 180px;
+	 height:25px;
+	 float:left ;
+    border: 2px solid #888a85;
+    padding:5px;
+    margin: 5px;
+    
+    
+}
+.checkInn{
+	width: 140px;
+	 height:25px;
+	 float:left ;
+    border: 2px solid #888a85;
+    padding:5px;
+    margin: 5px;
+}
+.checkOut{
+	width: 140px;
+	 height:25px;
+	 float:left ;
+    border: 2px solid #888a85;
+    padding:5px;
+    margin: 5px;
+}
+.search_room{
+	width: 150px;
+	 height:25px;
+	 float:left ;
+    border: 2px solid #888a85;
+    padding:5px;
+    margin: 5px;
+}
+.special_rates{
+	width: 160px;
+	 height:25px;
+	 float:left ;
+    border: 2px solid #888a85;
+    padding:5px;
+    margin: 5px;
+}
+/* .search_button{
+	width: 150px;
+	 height:25px;
+	 float:left ;
+    border: 5px solid green;
+    padding:5px;
+    margin: 5px;
+} */
+
+
